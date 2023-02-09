@@ -18,10 +18,11 @@
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+To understand the key components of the basic accounting equation as a foundation to analyzing financial statements in Power BI.
 
 #### Context
 
+In order to properly analyze financial statements, students need to understand the underlying components of the statements and how they interconnect. The basic accounting equation is made up of various line items from an accounting ledger. Students must understand these line items and their categorization in financial statements, precisely the income and balance sheet. Knowing this information will allow students to seamlessly create and analyze an income statement and balance sheet in Power BI.
 *3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
 
 #### Steps to be executed by the student (max 6)
