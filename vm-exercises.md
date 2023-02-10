@@ -66,11 +66,9 @@ Students will understand and the components of the balance sheet as it relates t
 Learning the line items that correspond to the balance sheet is imperative in understanding how to analyze and create financial statements. Students will learn that the components of the accounting equation help them ensure that their information is correct. 
 
 #### Steps to be executed by the student (max 6)
-
-*Each bulleted instruction is a complete sentence that describes a specific task.*
-Step 1: Create a measure to find the sum of the Equipment – Name it “ Total Equipment”
-Step 2: Create a measure to find the Total Assets of Larry Automotive – Name it “Total Assets”
-Step 3: Use a table to visualize all the line items in the Asset section of the Balance Sheet
+- Step 1 - Create a measure to find the sum of the Equipment – Name it “ Total Equipment”
+- Step 2 - Create a measure to find the Total Assets of Larry Automotive – Name it “Total Assets”
+- Step 3 - Use a table to visualize all the line items in the Asset section of the Balance Sheet
 
 
 #### Exercise question:
