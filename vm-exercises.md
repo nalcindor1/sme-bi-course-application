@@ -29,17 +29,22 @@ In order to properly analyze financial statements, students need to understand t
 
 *Each bulleted instruction is a complete sentence that describes a specific task.*
 
-- Step 1
-- Step 2
-- Step 3
+- Step 1 - Open "ex-1-initial.pbix"
+- Step 2 - Create a Measure to find the sum of Cash – Name it “Total Cash”
+- Step 3 - Create a measure to find the sum of Accounts Receivable – Name it “Total Accounts Receivable”
+- Step 4 - Create a measure to find the sum of Supplies – Name it “Supplies”
+- Step 5 - Create a measure to find the sum accumulated Depreciation – Equipment – Name it “Total Accumulated Depreciation-Equipment"
 - ...
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+Which financial statement would these line items be reported?
+- Income Statement
+- Balance Sheet
+- Cash Flow Statement
+- Owner's Equity Statement
 
 #### End goal:
 
-*Add an image of the final visualization here.*
 
 ## 2nd VM Exercise
 
@@ -54,23 +59,26 @@ In order to properly analyze financial statements, students need to understand t
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+Students will understand and the components of the balance sheet as it relates to the accounting equation.
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+Learning the line items that correspond to the balance sheet is imperative in understanding how to analyze and create financial statements. Students will learn that the components of the accounting equation help them ensure that their information is correct. 
 
 #### Steps to be executed by the student (max 6)
 
 *Each bulleted instruction is a complete sentence that describes a specific task.*
+Step 1: Create a measure to find the sum of the Equipment – Name it “ Total Equipment”
+Step 2: Create a measure to find the Total Assets of Larry Automotive – Name it “Total Assets”
+Step 3: Use a table to visualize all the line items in the Asset section of the Balance Sheet
 
-- Step 1
-- Step 2
-- Step 3
-- ...
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+What is the most Larry Automotive's most valuable asset?
+- Equipment
+- Supplies
+- Prepaid Insurance
+- Accounts Receivable
 
 #### End goal:
 
